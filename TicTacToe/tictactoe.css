@@ -1,0 +1,28 @@
+caption {
+	font-size: 40px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+table {
+
+	margin:auto;
+
+}
+
+td {
+	width: 100px;
+	height: 100px;
+
+
+}
+.two {
+	
+
+	border-left:2px solid grey;
+	border-right: 2px solid grey;
+
+}
+#middle {
+	border-top:2px solid grey;
+	border-bottom: 2px solid grey;
+}

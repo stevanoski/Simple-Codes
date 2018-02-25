@@ -1,0 +1,12 @@
+p {
+	/*content*/
+	width:200px;
+	/*border*/
+	border:2px solid blue;
+	/*padding*/
+	padding-left: 40px;
+	/*margin*/
+	/*margin: 10px 40px 200px 100px;*/
+	/*margin:0 auto 0 auto;*/
+	margin:0 auto;
+}
