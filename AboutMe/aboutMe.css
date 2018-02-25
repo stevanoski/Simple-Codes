@@ -1,0 +1,19 @@
+h1 {
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border:5px dashed green;
+	color:red;
+}
+li {
+	color:#b7056a;
+}
+h4 {
+	background-color: rgb(255,255,0);
+	color:rgba(0,0,255, .5);
+}
+body {
+	background: url(http://vignette4.wikia.nocookie.net/powerlisting/images/d/da/Grassy_Plains_717200735815PM691.jpg/revision/latest?cb=20130321150620);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
